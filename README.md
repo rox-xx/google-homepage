@@ -1,0 +1,1 @@
+This project is the result of completing The Odin Project's chapter on HTML and CSS. The goal of the project is to demonstrate an understanding of divs and be able to make basic manipulations to HTML code including the use of alignment, classes, ids, and forms.
