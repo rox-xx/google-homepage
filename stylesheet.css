@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  padding: 0px;
+  font-family: "arial";
+}
+
+header {
+  text-align: right;
+  width: 100%;
+  font-size: 9pt;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+}
+
+img.apps {
+  height:  27px;
+}
+
+ul {
+  list-style: none;
+}
+
+header ul {
+  margin: 20px;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 0px;
+  vertical-align: middle;
+  padding: 0px 8px;
+}
+
+li:hover{
+  text-decoration: underline;
+}
+
+img.logo {
+  display: block;
+  margin: auto;
+  margin-top: 35vh;
+  height: 100px;
+}
+
+form {
+  margin: 6px;
+}
+
+.box {
+  text-align: center;
+  width: 100%;
+}
+
+.entryfield {
+  position: absolute;
+  width: 260px;
+  height: 26px;
+  box-shadow: 2px 2px 12px #888888;
+  border: none;
+}
+
+.microbox {
+  position: relative;
+  display: inline-block;
+}
+
+.microphone {
+  height: 24px;
+  position: absolute;
+  left: 238px;
+  top: -26px;
+}
+
+.buttons {
+  margin: 6px 2px;
+  padding: 10px 12px;
+  background-color: #f2f2f2;
+  border: 0;
+  border-radius: 2px;
+  color: #797979;
+  font-weight: bold;
+  font-size: 9pt;
+  position: relative;
+  top: 50px;
+}
+
+.buttons:hover {
+  border: 1px solid #a9a9a9;
+  background-color: #f4f4f4;
+  padding: 9px 11px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  background-color: #f2f2f2;
+  width: 100%;
+  font-size: 9pt;
+  padding: 0;
+  margin: 0;
+
+  color: #666;
+}
+
+footer ul {
+  padding: 0px;
+  margin: 13px 20px;
+}
+
+footer ul li {
+  padding: 0px 8px;
+}
+
+.footerleft {
+  float: left;
+  display: inline-block;
+}
+
+.footerright {
+  display: inline-block;
+  float: right;
+}
